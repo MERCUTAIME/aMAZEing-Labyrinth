@@ -1,0 +1,8 @@
+stationary tiles order:
+1, C, A, 2, X, G, R, S, I, W, K, V, 3, H, J, 4
+
+movable tiles with treasure:
+From A to X, except the stantionary ones.
+
+When creating the game, add 33 of (12 movable tiles with treasure + 9 L tiles + 13 I tiles), 
+leaving one extra
